@@ -101,4 +101,5 @@ void main() {
 
   print('\n=== Terima kasih telah berbelanja di Hemart! ===');
   print('\n=== Terima ===');
+  print('===============================');
 }
