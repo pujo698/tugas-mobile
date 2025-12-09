@@ -64,4 +64,5 @@ void main() {
   print('Rata-rata AQI               : ${rataRata.toStringAsFixed(2)}');
   print('Streak terpanjang "Baik"    : $streakTerpanjang hari');
   print('===============================');
+  print('===============================');
 }
